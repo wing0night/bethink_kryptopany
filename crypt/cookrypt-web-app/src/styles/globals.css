@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Inter;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: none; /* Hides the underline */
+  color: black; /* Sets the text color to black */
+  transition: text-decoration 0.3s ease; /* Smooth transition for underline */
+}
+
+.link:hover {
+  text-decoration: underline; /* Shows underline on hover */
+  font-weight: 500;
+}
+
+.banner {
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}

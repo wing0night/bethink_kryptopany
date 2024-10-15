@@ -15,7 +15,10 @@ We get chat history from AI companion App. The data then has 2 flow
 
 ## How the system work
 
+### Crypt
 
+
+### Vana
 
 
 
